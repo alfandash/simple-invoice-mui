@@ -48,3 +48,7 @@ src/
 │ └── invoices/ # Invoice-specific components
 ├── lib/ # Utilities, types, and store
 └── styles/ # Global styles
+
+4. Demo:
+
+https://effortless-blini-a9df94.netlify.app/
